@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name": "Tony",
+        "rating": 5,
+        "userReview": "I love Tobor 3000! It always delivers my food on time!"
+    },
+    {
+        "id": 2,
+        "name": "Bob",
+        "rating": 4,
+        "userReview": "Tobor always delivers my Amazon Packages on time!"
+    }, 
+    {
+        "id": 3,
+        "name": "Temoc",
+        "rating": 5,
+        "userReview": "I dressed up as Tobor for halloween because I like it's futuristic design!"
+    } 
+
+]
